@@ -1,16 +1,16 @@
 ---
-title: Test
-description: Test
+title: Basics
+description: 'An overview of the basic concepts to understand when it comes to Python to be able to start reading/writing Python'
 ---
 
-## An exercise title written in sentence case
+## Python Data Types
 
 ```yaml
 type: NormalExercise 
 lang: python
 xp: 100 
 skills: 2
-key: 05665b6241   
+key: 6a123d9ae2   
 ```
 
 

@@ -62,10 +62,14 @@ Python offers several different data types built into it.
 `@sample_code`
 
 ```{python}
-print('Integer')
-print(10)
-print(-1000)
 print(type(10))
+print(type(-1000))
+print(type(1.24))
+print(type(-0.74))
+print(type('Python is Awesome!'))
+print(type("testing is cool"))
+print(type(True))
+print(type(False))
 ```
 
 

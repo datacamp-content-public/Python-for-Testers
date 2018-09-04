@@ -14,8 +14,31 @@ key: 6a123d9ae2
 ```
 
 
-This is the assignment text. It should help provide students with the background information needed.
-The instructions that follow should be in bullet point form with clear guidance for what is expected.
+Python offers several different data types built into it.
+
+* Integers 
+    * A number with essentially no limit to length, all based on the computers hardware
+    * Examples:
+        * 10
+        * -1000
+        * 12345678901234567890
+        * 0
+* Float
+    * A number with a decimal point
+    * Examples:
+        * 1.24
+        * -7.567
+        * .2
+* Strings
+    * A combination of letters, numbers, characters wrapped in either single or double quotes
+    * All characters between the delimiters are considered part of the single string
+    * Examples:
+        * "Python is Awesome!"
+        * 'testing is cool'
+        * 'Python 3.70'
+* Boolean Types
+    * True or False
+    * We'll discuss boolean values more indepth later on
 
 
 `@instructions`
@@ -39,15 +62,10 @@ The instructions that follow should be in bullet point form with clear guidance 
 `@sample_code`
 
 ```{python}
-# Your
-# sample
-# code
-# should
-# be
-# ideally
-# 10 lines or less,
-# with a max
-# of 16 lines.
+print('Integer')
+print(10)
+print(-1000)
+print(type(10))
 ```
 
 
